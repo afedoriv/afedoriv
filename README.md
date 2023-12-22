@@ -244,5 +244,3 @@ Feel free to explore my repositories, and don't hesitate to reach out!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afedoriv&layout=compact&theme=tokyonight)
 
 <br/>
-
-![Snake animation](https://github.com/afedoriv/afedoriv/blob/output/github-contribution-grid-snake.svg)
