@@ -1,4 +1,6 @@
-# Hello!
+# Hello! <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 
 <br/>
 
@@ -15,16 +17,14 @@
 }
 ```
 
-<br/>
-
-Feel free to explore my repositories, and don't hesitate to reach out!
+Feel free to explore my repositories, and don't hesitate to reach out!  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="70" height="45" alt="Animation"> 
 
 - 🌱 I’m currently working on a new project. Stay tuned for updates!
 - 📧 Email fedoriv2023@gmail.com
 
 <br/>
 
-## Tech Stack
+## Tech Stack <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="55">
 
 <br/>
 
@@ -243,4 +243,4 @@ Feel free to explore my repositories, and don't hesitate to reach out!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afedoriv&layout=compact&theme=tokyonight)
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
