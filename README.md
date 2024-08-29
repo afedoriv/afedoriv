@@ -1,17 +1,15 @@
-![Hello!](https://capsule-render.vercel.app/api?type=slice&height=140&width=100&color=0:feac5e,50:c779d0,100:4bc0c8&text=Hello!&fontSize=50&fontColor=ffffff&section=header&reversal=true&fontAlign=11.5&fontAlignY=50&animation=blinking)
-
-![Welcome to my GitHub profile!](https://capsule-render.vercel.app/api?type=soft&height=70&color=0:feac5e,50:c779d0,100:4bc0c8&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=21.5&fontColor=ffffff&fontAlign=21&fontAlignY=50&reversal=false)
+![Hello!](https://capsule-render.vercel.app/api?type=wave&height=170&width=100&color=0:feac5e,50:c779d0,100:4bc0c8&text=Hello!&fontSize=50&fontColor=ffffff&section=header&reversal=true&fontAlign=11&fontAlignY=45&animation=blinking)
 
 <br/>
+
+<div>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/a52bc7e4-9e8f-4a3d-905c-f2bcb9420dc0" alt="Welcome to my GitHub profile!" width="60%">&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+
 <br/>
 
-![Alina Fedoriv](https://capsule-render.vercel.app/api?type=transparent&height=60&text=Alina%20Fedoriv&fontSize=34&fontAlignY=50&fontAlign=15.5&stroke=6339d2)
-
-![Software Developer](https://capsule-render.vercel.app/api?type=transparent&height=23&text=Software%20Developer&fontAlignY=50&fontAlign=11.5&fontSize=14.5)
-![fedoriv2023@gmail.com](https://capsule-render.vercel.app/api?type=transparent&height=23&text=fedoriv2023@gmail.com&fontAlignY=50&fontAlign=13.5&fontSize=14.5)
-![New York, USA](https://capsule-render.vercel.app/api?type=transparent&height=23&text=New%20York,%20USA&fontAlignY=50&fontAlign=9.5&fontSize=14.5)
-
-![Feel free to explore my repositories, and don't hesitate to reach out!](https://capsule-render.vercel.app/api?type=transparent&height=45&text=Feel%20free%20to%20explore%20my%20repositories,%20and%20don't%20hesitate%20to%20reach%20out!&fontAlignY=70&fontAlign=32.5&fontSize=15)
+![Feel free to explore my repositories, and don't hesitate to reach out at fedoriv2023@gmail.com!](https://capsule-render.vercel.app/api?type=transparent&height=45&text=Feel%20free%20to%20explore%20my%20repositories,%20and%20don't%20hesitate%20to%20reach%20out%20at%20fedoriv2023@gmail.com!&fontAlignY=70&fontAlign=44&fontSize=15)
 ![🌱 I’m currently working on a new project. Stay tuned for updates!](https://capsule-render.vercel.app/api?type=transparent&height=22&text=🌱%20%20I’m%20currently%20working%20on%20a%20new%20project.%20Stay%20tuned%20for%20updates!&fontAlignY=50&fontAlign=30.5&fontSize=14)
 
 <br/>
@@ -167,5 +165,12 @@
 </div>
 
 <br/>
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=afedoriv&style=for-the-badge&label=Profile%20Views&color=000000)
+<div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=afedoriv&style=for-the-badge&label=Profile%20Views&color=000000)
+
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afedoriv&layout=compact&theme=tokyonight&border_radius=0&title_color=000000&bg_color=ffffff&text_color=000000&hide_border=true)
