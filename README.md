@@ -3,8 +3,7 @@
 <br/>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/a52bc7e4-9e8f-4a3d-905c-f2bcb9420dc0" alt="Welcome to my GitHub profile!" width="60%">&nbsp;&nbsp;&nbsp;&nbsp;
-
+<img src="https://github.com/user-attachments/assets/6844701a-383b-4be5-90bc-9628e18a3c37" alt="Welcome to my GitHub profile!" width="63%"> 
 </div>
 
 <br/>
@@ -27,13 +26,15 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-feac5e?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-f2a76e?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-e69f7f?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript ES6">
-  <img src="https://img.shields.io/badge/React-da8f88?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-c779d0?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit">
-  <img src="https://img.shields.io/badge/TailwindCSS-a07fb0?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/Bootstrap-7995b8?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Figma-5fa6b0?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/CSS-f7b69d?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-f5a88d?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript ES6">
+  <img src="https://img.shields.io/badge/React-f0a9d1?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-df87c2?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit">
+  <img src="https://img.shields.io/badge/ReactQuery-c779d0?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query">
+  <img src="https://img.shields.io/badge/ReactHookForm-b8b2d7?style=for-the-badge&logo=react-hook-form&logoColor=white" alt="React Hook Form">
+  <img src="https://img.shields.io/badge/TailwindCSS-a09ee3?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Bootstrap-8d9dca?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Figma-6f9adf?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/GSAP-4bc0c8?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP">
 </div>
 
@@ -43,6 +44,8 @@
 -   **HTML, CSS:** Fundamentals for structuring and styling web pages.
 -   **JavaScript ES6:** Modern JavaScript for writing clean and concise code.
 -   **React, Redux Toolkit:** Building and managing stateful, dynamic user interfaces.
+-   **React Query:** Data-fetching and caching for smooth and optimized UI updates.
+-   **React Hook Form:** Simplifying form management and validation in React.
 -   **TailwindCSS, Bootstrap:** CSS frameworks for efficient and responsive design.
 -   **Figma:** Designing and prototyping user interfaces.
 -   **GSAP:** Animation library for creating smooth and interactive UIs.
@@ -53,10 +56,11 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-4bc0c8?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-6bbdd8?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-9b8bce?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Mongoose-bd8ec3?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
-  <img src="https://img.shields.io/badge/Supabase-feac5e?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Express.js-b89cd2?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-d8a4cf?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Mongoose-e8a5b3?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
+  <img src="https://img.shields.io/badge/Supabase-fdba8f?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Stripe-feac5e?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
 </div>
 
 <br/>
@@ -65,6 +69,7 @@
 -   **Node.js, Express.js:** Developing efficient and scalable server-side applications.
 -   **MongoDB, Mongoose:** Database setup and management for backend operations.
 -   **Supabase:** Backend-as-a-Service platform for building scalable applications.
+-   **Stripe:** Payment processing platform for managing secure transactions.
 
 <br/>
 
